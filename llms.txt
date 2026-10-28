@@ -1,0 +1,25 @@
+# Espace Femmes Osasco
+
+> Salão de beleza no Pátio Osasco Open Mall, Av. dos Autonomistas, 896, lojas 151 e 152, Vila Yara, Osasco, SP. Corte feminino, coloração, luzes, hidratação e queratina, penteados, manicure, pedicure e maquiagem. Atendimento pelo WhatsApp (11) 96489-9567.
+
+## Dados do negócio
+
+- Endereço: Av. dos Autonomistas, 896, lojas 151 e 152 (Pátio Osasco Open Mall), Vila Yara, Osasco, SP, 06020-010
+- Horário: Seg a sex, 10h às 20h; sáb, 10h às 16h; domingo fechado
+- WhatsApp: (11) 96489-9567 (https://wa.me/5511964899567)
+- Instagram: https://www.instagram.com/espacefemmespo/
+
+## Serviços
+
+- Corte feminino (a partir de R$ 110)
+- Coloração, luzes e loiros
+- Hidratação e queratina
+- Penteados
+- Manicure (a partir de R$ 40) e manicure artística (a partir de R$ 46)
+- Pedicure (a partir de R$ 44)
+- Maquiagem
+
+## Páginas
+
+- [Página inicial](https://{{DOMINIO}}/)
+- [Política de Privacidade](https://{{DOMINIO}}/politica-de-privacidade.html)
